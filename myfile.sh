@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "From Main Branch"
+echo "From Main Feature"
